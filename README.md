@@ -7,4 +7,3 @@
 * HTML5
 * CSS3
 * Atom
-* Bootstrap (XXXX NOT YET THOUGH FIX THIS)
